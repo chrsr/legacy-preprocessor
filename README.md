@@ -17,5 +17,6 @@ This should output a file ```legacy.css``` which you could include in your proje
 ```
 
 ### Todo
+* Update regex to capture entirety of the @media content
 * Specify css file(s) or folder as a param
 * Rather than using the ```/*legacy*/``` flag include param to specify a mq dimention as the selector
