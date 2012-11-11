@@ -28,3 +28,8 @@
     margin: 10px auto;
   }
 }
+
+/*legacy*/
+.ie8 .blurb {
+    zoom: 1;
+}
