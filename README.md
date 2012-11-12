@@ -16,7 +16,7 @@ This should output a file ```legacy.css``` which you could include in your proje
 <!--[if lt IE 9]><link rel="stylesheet" href="legacy.css"><![endif]-->
 ```
 
-### Todo
+### Potential expansions
 * Specify css file(s) or folder as a param
 * Rather than using the ```/*legacy*/``` flag include param to specify a mq dimention as the selector
-* Update regex to capture entirety of the @media content
+* Update regex to capture entirety of the @media content rather than just one selector
